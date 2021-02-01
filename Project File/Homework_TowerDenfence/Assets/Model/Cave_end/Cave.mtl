@@ -1,0 +1,101 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:21.05.2019 11:38:07
+
+newmtl Big_Rock
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Big_Rock_001_initialShadingGroup_BaseColor.png
+	map_Kd Big_Rock_001_initialShadingGroup_BaseColor.png
+	map_Ks Big_Rock_001_initialShadingGroup_Metallic.png
+	map_bump Big_Rock_001_initialShadingGroup_Normal.png
+	bump Big_Rock_001_initialShadingGroup_Normal.png
+
+newmtl Crystal_Cubes
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Crystal_Cube_001_lambert1_BaseColor.png
+	map_Kd Crystal_Cube_001_lambert1_BaseColor.png
+
+newmtl Cave
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Cave_LoPoly_initialShadingGroup_BaseColor.png
+	map_Kd Cave_LoPoly_initialShadingGroup_BaseColor.png
+	map_Ks Cave_LoPoly_initialShadingGroup_Metallic.png
+	map_bump Cave_LoPoly_initialShadingGroup_Normal.png
+	bump Cave_LoPoly_initialShadingGroup_Normal.png
+
+newmtl Waterfall1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Waterfall_001_lambert1_BaseColor.png
+	map_Kd Waterfall_001_lambert1_BaseColor.png
+	map_Ks Waterfall_001_lambert1_Metallic.png
+	map_bump Waterfall_001_lambert1_Normal.png
+	bump Waterfall_001_lambert1_Normal.png
+
+newmtl Arch_001_initialShadingGroup1
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4000 0.4000 0.4000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Arch_001_Arch_001_initialShadingGroup_BaseColor.png
+	map_Kd Arch_001_Arch_001_initialShadingGroup_BaseColor.png
+	map_Ks Arch_001_Arch_001_initialShadingGroup_Metallic.png
+	map_bump Arch_001_Arch_001_initialShadingGroup_Normal.png
+	bump Arch_001_Arch_001_initialShadingGroup_Normal.png
+
+newmtl Floor
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka LowPoly_Floor_initialShadingGroup_BaseColor.png
+	map_Kd LowPoly_Floor_initialShadingGroup_BaseColor.png
+	map_Ks LowPoly_Floor_initialShadingGroup_Metallic.png
+	map_bump LowPoly_Floor_initialShadingGroup_Normal.png
+	bump LowPoly_Floor_initialShadingGroup_Normal.png
